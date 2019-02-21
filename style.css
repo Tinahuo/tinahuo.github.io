@@ -1,0 +1,87 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:white;
+    font-family:"Reprise Stamp Std";
+        margin:35px;
+}
+
+h2{
+    color:white;
+    margin:35px;
+    padding:0px;
+}
+.maintext{
+    background-color: #23282A;
+    color:#E2E2E2;
+    padding:20px;
+    font-size:18px;
+    font-family:"Andale Mono";
+    font-weight:lighter;
+        margin:35px;
+}    
+
+
+
+img{
+    margin:35px;
+    height:400px;
+    width:700px;
+}
+
+#title{
+    margin:0px;
+    height:150px;
+    width:400px;
+    object-fit:cover;
+
+}
+iframe{
+    margin:35px;
+}
+
+#cast{
+    color:white;
+    margin:35px;
+    padding:0px;
+    list-style-type: none;
+}
+
+li{
+    font-size:20px;
+    font-family:"Andale Mono";
+    font-weight:lighter;
+    padding:10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 35px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav{
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+    font-family:"Reprise Stamp Std";
+    text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+  text-decoration:underline;
+}
+
+span{
+    color:#B0CEFF;
+}
