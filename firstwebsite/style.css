@@ -1,3 +1,7 @@
+body{
+	background-color:#FFFFA1 ;
+}
+
 img{
 	height:200px;
 	width:200px;
@@ -6,11 +10,12 @@ img{
 h1{
 	font-family:"American Typewriter";
 	color:red;
-	size:50px;
+	font-size:50px;
+	padding:0px;
 }
 
 li{
-    font-size:20px;
+    font-size:18px;
     font-family:"Andale Mono";
     font-weight:lighter;
     padding:10px;
@@ -23,15 +28,24 @@ nav ul {
   background-color: #333;
 }
 
+#h3margin{
+	margin:10px;
+	padding:10px;
+}
+
 .nav{
   float: left;
+}
+.yellowbackground{
+/*	background-color: white;*/
+	font-family: "Chalkboard";
 }
 
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 5px 8px;
     font-family:"Reprise Stamp Std";
     text-decoration: none;
 }
