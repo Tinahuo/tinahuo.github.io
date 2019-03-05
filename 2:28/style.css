@@ -25,7 +25,13 @@ nav a:hover{
 	padding:16px;
 }
 
+h3{
+	font-family:"courier";
+}
 
+p{
+	font-family:"Didot";
+}
 
 #home{
 	background-color: #EDFFC7;
