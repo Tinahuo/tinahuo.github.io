@@ -1,0 +1,52 @@
+nav{
+	text-align: center;
+	background-color:lightpink;
+	position: fixed;
+	width:100%; /*makes the navigation covered from left to right*/
+}
+
+nav li{
+	display: inline;/*bullet points are gone, stuff are in one horizontal line now*/
+	padding: 40px;
+
+}
+
+nav a{
+	color: #2F2F2F;
+	font-family: "American Typewriter";
+	font-size:18px;
+	text-decoration: none;
+	padding:16px;
+}
+
+nav a:hover{
+	text-decoration:underline;
+		background-color:#FFD4E1;
+	padding:16px;
+}
+
+
+
+#home{
+	background-color: #EDFFC7;
+	height:300px;
+	padding:50px;
+}
+
+#about{
+	background-color: #E8D3B2;
+	height:300px;
+	padding:50px;
+}
+
+#resume{
+	background-color: #C4FFF8;
+	height:300px;
+	padding:50px;
+}
+
+#contact{
+	background-color: #C2BBE8;
+	height:300px;
+	padding:50px;
+}
