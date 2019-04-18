@@ -14,12 +14,12 @@ function percentOf(){
     var number2=document.getElementById('percent2-input').value
 	var percent= number1/number2*100
 	var rounded = percent.toFixed(2);
-    alert(number1+" is "+rounded+"% of "+number2)
+    alert(number1+" is "+rounded+"% of "+number2+".")
 }
 
 function areaOfCirle(){
     var radius=document.getElementById('area-input').value
 	var area=radius**2*3.1415926
 	var rounded2 = area.toFixed(2);
-    alert("The area for a circle with "+radius+" is "+ rounded2)
+    alert("The area for a circle with "+radius+" is "+ rounded2+".")
 }
