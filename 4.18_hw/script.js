@@ -1,6 +1,6 @@
 function square(){
     var square=document.getElementById('square-input').value
-	var result=number**2
+	var result=square**2
     alert("The result of squaring the number "+square+" is "+result+".")
 }
 
