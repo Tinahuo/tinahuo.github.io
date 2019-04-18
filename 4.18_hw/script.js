@@ -6,7 +6,7 @@ function square(){
 
 function halfNumber(){
     var half=document.getElementById('half-input').value 
-    alert("Half of "+ half+" is "+half2/2+".")
+    alert("Half of "+ half+" is "+half/2+".")
 }
 
 function percentOf(){
