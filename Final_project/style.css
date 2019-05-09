@@ -51,8 +51,12 @@ body{
   	  font-family:"Open Sans Condensed", sans-serif;
 }
 
-.containerimg button:hover {
-color:yellow;
+.containerimg a{
+	color:#84A9Ab;
+}
+
+.containerimg a:hover {
+color:#4D6F73;
 }
 
 

@@ -1,10 +1,10 @@
-// $(document).ready(function(){
-// 	console.log('the document is loaded and ready!')
-// 	$('#image').click(function(){
-// 		$('#image').fadeOut(2000);
-// 	})
+$(document).ready(function(){
+	console.log('the document is loaded and ready!')
+	$('#image').click(function(){
+		$('#image').fadeOut(2000);
+	})
 
-// })
+})
 
 window.onscroll = function() {scrollFunction()};
 
